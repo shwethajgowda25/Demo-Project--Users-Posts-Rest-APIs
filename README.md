@@ -61,6 +61,12 @@ The application will start on http://localhost:8080 by default.
 The API provides the following endpoints for interacting with User and Post resources.
 Base URL: **http://localhost:8080**
 
-**Endpoints of Users**:
+**Users Endpoint**:
 <img width="1651" height="447" alt="access this public github repository _https___git  - Google Sheets - Google Chrome 9_20_2025 1_12_03 PM" src="https://github.com/user-attachments/assets/51c9befc-dfb9-4c72-8756-efe4ce39deb2" />
+
+**Posts Endpoint** :
+<img width="1587" height="507" alt="access this public github repository _https___git  - Google Sheets - Google Chrome 9_20_2025 1_18_18 PM" src="https://github.com/user-attachments/assets/b5eb6fc6-aef1-4555-a886-6370d999ba3b" />
+
+
+
 
