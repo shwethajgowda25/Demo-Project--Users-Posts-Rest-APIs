@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.api.ControllerTest.UserControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-18T18:51:47.067Z" hostname="SHWETHAREBOUND" time="0.07">
+  <properties/>
+  <testcase name="testGetUserNotFound()" classname="com.example.api.ControllerTest.UserControllerTest" time="0.014"/>
+  <testcase name="testUpdateUser()" classname="com.example.api.ControllerTest.UserControllerTest" time="0.015"/>
+  <testcase name="testCreateUser()" classname="com.example.api.ControllerTest.UserControllerTest" time="0.013"/>
+  <testcase name="testDeleteUser()" classname="com.example.api.ControllerTest.UserControllerTest" time="0.011"/>
+  <testcase name="testGetUserById()" classname="com.example.api.ControllerTest.UserControllerTest" time="0.009"/>
+  <system-out><![CDATA[2025-09-18T12:51:47.038-06:00  INFO 15352 --- [TraseDemo] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.api.ControllerTest.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-09-18T12:51:47.059-06:00  INFO 15352 --- [TraseDemo] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.api.DemoApplication for test class com.example.api.ControllerTest.UserControllerTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
