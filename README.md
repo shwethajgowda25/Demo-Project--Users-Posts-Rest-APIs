@@ -23,7 +23,7 @@ Adheres to standard HTTP methods and status codes for intuitive API interaction.
 Basic input validation to ensure data integrity.
 
 # Embedded Database: 
-Uses an in-memory database (e.g., Map) for easy setup and development.
+Uses an in-memory database (Java HashMap) for easy setup and development.
 
 # Built with Gradle: 
 Leverages Gradle for efficient dependency management and build automation.
@@ -32,13 +32,10 @@ Leverages Gradle for efficient dependency management and build automation.
 Language: Java 17+
 Framework: Spring Boot 3.x
 Build Tool: Gradle
-Database: RAM Database (in-memory, for development)
+Database: Java HashMap as Database (in-memory, for development)
 
 # Testing: 
 JUnit 5, Mockito
-
-# API Documentation: 
-(Potentially integrates with OpenAPI/Swagger for interactive documentation if added)
 
 # Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
